@@ -44,9 +44,18 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
-![image](https://github.com/user-attachments/assets/12a0aeee-32ce-4a89-bef9-7c9279757ca5)
 
+## input values are 
+![image](https://github.com/user-attachments/assets/6d935a84-89a7-4606-b49a-100f4cd7de3b)
+
+## slope:
+![image](https://github.com/user-attachments/assets/9fe607be-f9df-4414-be4b-470020514ef0)
+
+## y_intercept:
+![image](https://github.com/user-attachments/assets/a643ac69-ab69-466b-bc7f-0b53d66fef06)
+
+## y_predict:
+![image](https://github.com/user-attachments/assets/12a0aeee-32ce-4a89-bef9-7c9279757ca5)
 
 
 ## Result:
